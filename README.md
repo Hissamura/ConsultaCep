@@ -59,10 +59,6 @@ git clone https://github.com/seu-usuario/ConsultaCep.git
    - Digite um CEP e clique em **"Buscar"**
    - Os dados são exibidos na tela e podem ser salvos no banco de dados
 
-🔹 **Buscar endereço pelo Nome Completo**
-   - Informe **Estado, Cidade e Logradouro**
-   - A aplicação retorna os endereços encontrados no ViaCEP
-   
 🔹 **Salvar e atualizar registros no banco**
    - Se o **CEP já existir**, pergunta se deseja **atualizar os dados**
    - Se o **CEP não existir**, insere um novo registro
