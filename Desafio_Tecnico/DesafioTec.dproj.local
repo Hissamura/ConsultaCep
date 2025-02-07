@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/02/04 21:34:15.000.548,=C:\Users\samur\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/02/04 21:44:59.000.154,=C:\Users\samur\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2025/02/04 21:48:21.000.443,D:\Documentos\SoftPlan\Desafio_Tecnico\unRepositorioCEP.pas=C:\Users\samur\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/02/04 21:48:21.000.443,D:\Documentos\SoftPlan\Desafio_Tecnico\unRepositorioCEP.dfm=C:\Users\samur\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2025/02/04 21:49:50.000.237,D:\Documentos\SoftPlan\Desafio_Tecnico\DesafioTec.dproj=C:\Users\samur\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2025/02/04 21:54:47.000.863,=D:\Documentos\SoftPlan\Desafio_Tecnico\Unit1.pas</Transaction>
+    <Transaction>2025/02/04 21:54:59.000.711,D:\Documentos\SoftPlan\Desafio_Tecnico\Unit1.pas=D:\Documentos\SoftPlan\Desafio_Tecnico\unViaCEP.pas</Transaction>
+    <Transaction>2025/02/04 21:55:49.000.888,=D:\Documentos\SoftPlan\Desafio_Tecnico\Unit1.pas</Transaction>
+    <Transaction>2025/02/04 21:56:41.000.403,D:\Documentos\SoftPlan\Desafio_Tecnico\Unit1.dfm=D:\Documentos\SoftPlan\Desafio_Tecnico\unConsultaCEP.dfm</Transaction>
+    <Transaction>2025/02/04 21:56:41.000.403,D:\Documentos\SoftPlan\Desafio_Tecnico\Unit1.pas=D:\Documentos\SoftPlan\Desafio_Tecnico\unConsultaCEP.pas</Transaction>
+    <Transaction>2025/02/04 23:18:50.000.973,D:\Documentos\SoftPlan\Desafio_Tecnico\unRepositorioCEP.pas=</Transaction>
+    <Transaction>2025/02/05 22:39:59.000.600,=D:\Documentos\SoftPlan\Desafio_Tecnico\Unit1.pas</Transaction>
+    <Transaction>2025/02/05 22:40:24.000.354,D:\Documentos\SoftPlan\Desafio_Tecnico\Unit1.pas=D:\Documentos\SoftPlan\Desafio_Tecnico\unObjCEP.pas</Transaction>
+    <Transaction>2025/02/05 22:41:19.000.539,D:\Documentos\SoftPlan\Desafio_Tecnico\unObjCEP.pas=</Transaction>
+    <Transaction>2025/02/05 22:41:25.000.177,D:\Documentos\SoftPlan\Desafio_Tecnico\unViaCEP.pas=</Transaction>
+    <Transaction>2025/02/05 22:41:41.000.073,=D:\Documentos\SoftPlan\Desafio_Tecnico\unObjCEP.pas</Transaction>
+    <Transaction>2025/02/05 22:41:41.000.112,=D:\Documentos\SoftPlan\Desafio_Tecnico\unObjViaCEP.pas</Transaction>
+  </Transactions>
+</BorlandProject>
